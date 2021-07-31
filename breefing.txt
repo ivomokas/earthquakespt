@@ -15,4 +15,5 @@ from https://www.ipma.pt/pt/bivalves/index.jsp
 http://api.ipma.pt/
 
 condições de utilização
+
 http://api.ipma.pt/#legal
