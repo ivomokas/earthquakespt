@@ -1,0 +1,18 @@
+tech challange
+pick up react
+do small projects
+
+start small
+first stabilise the connection
+
+make the plan work 
+
+
+the project: collect data from ipma about bivalves and show
+
+from https://www.ipma.pt/pt/bivalves/index.jsp
+
+http://api.ipma.pt/
+
+condições de utilização
+http://api.ipma.pt/#legal
